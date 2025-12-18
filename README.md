@@ -1,2 +1,3 @@
-# Race Performance Monitoring &amp; Strategy Dashboard
+# Race Performance Intelligence System (RPIS)
+Race Performance Monitoring &amp; Strategy Dashboard
 
